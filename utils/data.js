@@ -2,6 +2,7 @@ const data = {
     products:[
         {
             name:'Styleville.in Women is A-Line Midi Dress',
+            slug:'styleville.in women is a-Line midi dress',
             category:'Dresses',
             image:'/images/p1.jpg',
             price:70,
@@ -13,6 +14,7 @@ const data = {
         },
         {
             name:'Styleville.in Women is A-Line Midi Dress',
+            slug:'styleville.in women is a-Line midi dress',
             category:'Dresses',
             image:'/images/p2.jpg',
             price:70,
@@ -24,6 +26,7 @@ const data = {
         },
         {
             name:'Synthetic A-Line Dress – Rare',
+            slug:'synthetic a-line dress – rare',
             category:'Dresses',
             image:'/images/p3.jpg',
             price:70,
@@ -35,6 +38,7 @@ const data = {
         },
         {
             name:'Styleville.in Women is A-Line Midi Dress',
+            slug:'styleville.in women is a-Line midi dress',
             category:'Dresses',
             image:'/images/p4.jpg',
             price:70,
@@ -46,6 +50,7 @@ const data = {
         },
         {
             name:'Styleville.in Women is A-Line Midi Dress',
+            slug:'styleville.in women is a-Line midi dress',
             category:'Dresses',
             image:'/images/p5.jpg',
             price:70,
@@ -57,6 +62,7 @@ const data = {
         },
         {
             name:'Styleville.in Women is A-Line Midi Dress',
+            slug:'styleville.in women is a-Line midi dress',
             category:'Dresses',
             image:'/images/p6.jpeg',
             price:70,
